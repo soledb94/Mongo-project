@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="100" height="100" src=INPUT/labs.png?raw=true "Title">
+  <img width="100" height="100" src=INPUT/image/labs.png?raw=true "Title">
 </p>
 
 The main purpose of this project is to determinate **where in the world** our new gaming company should be based.
